@@ -1,2 +1,2 @@
-Zdravo miroljube
-pozdrav.txt
+Zdravo
+
